@@ -1,0 +1,34 @@
+﻿生成启动时间为 2017/5/8 8:47:36。
+     1>项目“D:\Dynamic_B_IGA_Sys\Dynamic_BS_System\Dynamic_BS_System\Dynamic_BS_System.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Visual Studio 2013\VC\bin\CL.exe /c /I"D:\Dynamic_B_IGA_Sys\armadillo-7.800.2\include" /I"D:\Dynamic_B_IGA_Sys\SISL-master\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D ARMA_USE_LAPACK /D ARMA_USE_BLAS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Point3D.cpp
+         Point3D.cpp
+     1>CL : warning : detected 'min' and/or 'max' macros and undefined them;
+     1>CL : warning : you may wish to define NOMINMAX before including any windows header
+       Link:
+         D:\Program Files\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dynamic_B_IGA_Sys\Dynamic_BS_System\Debug\Dynamic_BS_System.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Dynamic_B_IGA_Sys\armadillo-7.800.2\examples\lib_win64" /LIBPATH:D:\Dynamic_B_IGA_Sys sisl.lib lapack_win64_MT.lib blas_win64_MT.lib blas.lib lapack.lib libf2c.lib /NODEFAULTLIB:msvcrt.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\Visual Studio 2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Dynamic_B_IGA_Sys\Dynamic_BS_System\Debug\Dynamic_BS_System.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Dynamic_B_IGA_Sys\Dynamic_BS_System\Debug\Dynamic_BS_System.lib" /MACHINE:X86 Debug\Dynamic_BS_System.res
+         Debug\conversion.obj
+         Debug\DisplayBBSC.obj
+         Debug\Dynamic_BS_System.obj
+         Debug\Dynamic_BS_SystemDoc.obj
+         Debug\Dynamic_BS_SystemView.obj
+         Debug\Gauss.obj
+         Debug\gvBallNurbsCurven.obj
+         Debug\gvBallnurbsSurfacen.obj
+         Debug\gvCircle.obj
+         Debug\gvMatrix.obj
+         Debug\gvNurbsCurven.obj
+         Debug\gvVector.obj
+         Debug\JacobiMatrix.obj
+         Debug\MainFrm.obj
+         Debug\Matrix.obj
+         Debug\MyLibOpenGL.obj
+         Debug\P.obj
+         Debug\Point3D.obj
+         Debug\stdafx.obj
+         Dynamic_BS_System.vcxproj -> D:\Dynamic_B_IGA_Sys\Dynamic_BS_System\Debug\Dynamic_BS_System.exe
+     1>已完成生成项目“D:\Dynamic_B_IGA_Sys\Dynamic_BS_System\Dynamic_BS_System\Dynamic_BS_System.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.56
